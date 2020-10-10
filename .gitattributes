@@ -1,0 +1,6 @@
+.eslintrc.js -linguist-detectable
+.eslintignore -linguist-detectable
+tsconfig.json -linguist-detectable
+.babelrc -linguist-detectable
+package.json -linguist-detectable
+package-lock.json linguist-vendored
